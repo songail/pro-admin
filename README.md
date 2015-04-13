@@ -44,34 +44,34 @@
     <script src="assets/js/ace/ace.ajax-content.js"></script>
 
 ###自定义拖动事件的触摸
-  <script src="assets/js/ace/ace.touch-drag.js"></script>
+    <script src="assets/js/ace/ace.touch-drag.js"></script>
 
 ###移动视图菜单栏的切换和其他功能
-  <script src="assets/js/ace/ace.sidebar.js"></script>
+    <script src="assets/js/ace/ace.sidebar.js"></script>
 
 ###滚动条的侧边栏
-  <script src="assets/js/ace/ace.sidebar-scroll-1.js"></script>
+    <script src="assets/js/ace/ace.sidebar-scroll-1.js"></script>
 
 ###菜单悬停
-  <script src="assets/js/ace/ace.submenu-hover.js"></script>
+    <script src="assets/js/ace/ace.submenu-hover.js"></script>
 
 ###定制Blog或者网站的Widget(不明用处)
-  <script src="assets/js/ace/ace.widget-box.js"></script>
+    <script src="assets/js/ace/ace.widget-box.js"></script>
 
 ###设置功能(可选项)
-  <script src="assets/js/ace/ace.settings.js"></script>
+    <script src="assets/js/ace/ace.settings.js"></script>
 
 ###设置功能(可选项)
-  <script src="assets/js/ace/ace.settings-rtl.js"></script>
+    <script src="assets/js/ace/ace.settings-rtl.js"></script>
 
 ###设置功能(可选项)
-  <script src="assets/js/ace/ace.settings-skin.js"></script>
+    <script src="assets/js/ace/ace.settings-skin.js"></script>
 
 ###widget拓展
-  <script src="assets/js/ace/ace.widget-on-reload.js"></script>
+    <script src="assets/js/ace/ace.widget-on-reload.js"></script>
 
 ###索检插件
-  <script src="assets/js/ace/ace.searchbox-autocomplete.js"></script>
+        <script src="assets/js/ace/ace.searchbox-autocomplete.js"></script>
 
 ###图标插件
-  <script src="assets/js/jquery.easypiechart.js"></script>
+    <script src="assets/js/jquery.easypiechart.js"></script>
