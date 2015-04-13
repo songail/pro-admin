@@ -71,7 +71,7 @@
     <script src="assets/js/ace/ace.widget-on-reload.js"></script>
 
 ###索检插件
-        <script src="assets/js/ace/ace.searchbox-autocomplete.js"></script>
+    <script src="assets/js/ace/ace.searchbox-autocomplete.js"></script>
 
 ###图标插件
     <script src="assets/js/jquery.easypiechart.js"></script>
